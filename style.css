@@ -1,0 +1,28 @@
+
+	.header-footer {
+		text-align: center;
+		background-color: #607D8B;
+		padding: 30px;
+		font-family: 'Noto Sans', sans-serif;
+
+}
+	header{
+		color: #ccc;
+	}
+	body{
+		margin: 0px;
+		background-color: #B0BEC5;
+	}
+
+	section > div{
+		background-color: #90A4AE;
+		margin: 30px;
+		padding: 30px;
+		border-radius: 30px;
+		font-family: 'Noto Sans', sans-serif;
+	}
+	header>img{
+		border-radius: 50%;
+	}
+
+	
